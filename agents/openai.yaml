@@ -1,0 +1,7 @@
+interface:
+  display_name: "科研绘图风格"
+  short_description: "为科研论文、汇报PPT和报告图提供统一、克制、可编辑的矢量视觉规范"
+  brand_color: "#0B4F9C"
+  default_prompt: "Use $scientific-figure-style to create an editable scientific figure in this project's restrained blue-green style."
+policy:
+  allow_implicit_invocation: true
