@@ -4,6 +4,18 @@
 
 Scientific figure style skill for editable, publication-friendly research visuals.
 
+## 风格预览 / Style Preview
+
+点击图片可查看原始尺寸。Click either image to view it at full size.
+
+### 中文版
+
+[![科研风格化绘图指南中文版](assets/scientific-figure-style-guide-zh.png)](assets/scientific-figure-style-guide-zh.png)
+
+### English
+
+[![Scientific Figure Style Guide in English](assets/scientific-figure-style-guide-en.png)](assets/scientific-figure-style-guide-en.png)
+
 ## 风格特点
 
 - 白底、深蓝标题、蓝色细线与克制的蓝绿配色
@@ -51,6 +63,9 @@ If the user explicitly requests another visual style, the user's style wins.
 
 ```text
 scientific-figure-style/
+├── assets/
+│   ├── scientific-figure-style-guide-zh.png
+│   └── scientific-figure-style-guide-en.png
 ├── SKILL.md
 ├── agents/
 │   └── openai.yaml
